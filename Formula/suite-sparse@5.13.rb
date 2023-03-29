@@ -1,4 +1,4 @@
-class SuiteSparseAt513 < Formula
+class SuiteSparseAT513 < Formula
 	desc "Suite of Sparse Matrix Software"
 	homepage "https://people.engr.tamu.edu/davis/suitesparse.html"
 	url "https://github.com/DrTimothyAldenDavis/SuiteSparse/archive/v5.13.0.tar.gz"
