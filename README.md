@@ -1,4 +1,8 @@
-# Desmondlzy Rod
+# Homebrew Formulae for MeshFEM/RodAssembly
+
+## List of packages?
+
+- `suite-sparse@5.13`
 
 ## How do I install these formulae?
 
